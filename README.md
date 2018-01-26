@@ -9,6 +9,16 @@ awesome js plugins
 
 [RubaXa/Sortable](https://github.com/RubaXa/Sortable)     [![GitHub stars](https://img.shields.io/github/stars/RubaXa/Sortable.svg?style=social)](https://github.com/RubaXa/Sortable/stargazers)
 
+## CSS
+
+### Loading
+
+[tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit)     [![GitHub stars](https://img.shields.io/github/stars/RubaXa/Sortable.svg?style=social)](https://github.com/tobiasahlin/SpinKit)
+
+## 资料集合
+
+[stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) [![GitHub stars](https://img.shields.io/github/stars/RubaXa/Sortable.svg?style=social)](https://github.com/stanzhai/be-a-professional-programmer)
+
 
 ## github
 
