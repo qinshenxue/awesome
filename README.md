@@ -13,11 +13,11 @@ awesome js plugins
 
 ### Loading
 
-[tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit)     [![GitHub stars](https://img.shields.io/github/stars/RubaXa/Sortable.svg?style=social)](https://github.com/tobiasahlin/SpinKit)
+[tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit)  [![GitHub stars](https://img.shields.io/github/stars/tobiasahlin/SpinKit.svg)](https://github.com/tobiasahlin/SpinKit/stargazers)
 
 ## 资料集合
 
-[stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) [![GitHub stars](https://img.shields.io/github/stars/RubaXa/Sortable.svg?style=social)](https://github.com/stanzhai/be-a-professional-programmer)
+[stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) [![GitHub stars](https://img.shields.io/github/stars/stanzhai/be-a-professional-programmer.svg)](https://github.com/stanzhai/be-a-professional-programmer/stargazers)
 
 
 ## github
