@@ -9,12 +9,12 @@
 ## Node
 
 ### 处理 excel 库
-https://github.com/SheetJS/js-xlsx
+- https://github.com/SheetJS/js-xlsx
 
-https://github.com/guyonroche/exceljs
+- https://github.com/guyonroche/exceljs
 
 ### 邮件
-
+https://github.com/nodemailer/nodemailer
 
 ## 拖动排序
 
