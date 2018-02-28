@@ -5,7 +5,15 @@
 
 安卓支持 chrome://inspect 调试设置 [https://testerhome.com/topics/6871](https://testerhome.com/topics/6871)
 
-awesome js plugins
+
+## Node
+
+### 处理 excel 库
+https://github.com/SheetJS/js-xlsx
+
+https://github.com/guyonroche/exceljs
+
+### 邮件
 
 
 ## 拖动排序
