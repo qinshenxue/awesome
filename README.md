@@ -3,7 +3,7 @@
 
 ## 微信相关
 
-安卓支持 chrome://inspect 调试设置 [https://testerhome.com/topics/6871](https://testerhome.com/topics/6871)
+安卓支持 chrome://inspect 调试设置https://github.com/qinshenxue/awesome/issues/1
 
 
 ## Node
