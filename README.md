@@ -1,9 +1,12 @@
 # awesome
 
 
+## 微信
 
-[安卓支持 chrome://inspect 调试设置](https://github.com/qinshenxue/awesome/issues/1)
-[HTML5调用手机摄像机、相册功能 <input>方法](https://github.com/qinshenxue/awesome/issues/2)
+1. [安卓支持 chrome://inspect 调试设置](https://github.com/qinshenxue/awesome/issues/1)
+
+## HTML
+1. [HTML5调用手机摄像机、相册功能 <input>方法](https://github.com/qinshenxue/awesome/issues/2)
 
 ## Node
 
