@@ -27,6 +27,7 @@
             top: 30px;
             left: 0;
             z-index: 102;
+            transform: translate3d(0, 0, 1px)
         }
 
         .popup:before {
@@ -56,7 +57,22 @@
     <div style="height:900px">
         滚动到底部
     </div>
-    <div class="box">点击测试
+    <div class="box">默认情况
+        <div class="cover"></div>
+        <div class="popup">
+            <ul>
+                <li>
+                    菜单1
+                </li>
+                <li>
+                    菜单1
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="box">加了translate3d(0,0,1px)
         <div class="cover"></div>
         <div class="popup">
             <ul>
