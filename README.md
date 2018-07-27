@@ -1,6 +1,15 @@
 # awesome
 
 
+
+## 截屏
+
+- FastStone Capture：滚动截屏、录屏
+- Snipaste：截图、贴图
+
+
+
+
 ## Node
 
 ### 处理 excel 库
