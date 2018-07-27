@@ -3,13 +3,16 @@
 ## 优质软件
 
 - cmd 替代工具 [cmder](https://github.com/cmderdev/cmder)
+- [软媒时间](http://sj.ruanmei.com/)：替换 Windows任务栏 时间
 
 ### 截屏
 
 - [FastStone Capture](https://www.portablesoft.org/faststone-capture/)：滚动截屏、录屏
 - [Snipaste](https://zh.snipaste.com/)：截图、贴图
 
+### IDE
 
+- Sublime  安装 3143 版本破解版本才有效。官方3143下载地址[https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64%20Setup.exe](https://download.sublimetext.com/Sublime%20Text%20Build%203143%20x64%20Setup.exe)
 
 
 ## Node
