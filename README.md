@@ -1,9 +1,9 @@
-# awesome
 
 ## 优质软件
 
 - cmd 替代工具 [cmder](https://github.com/cmderdev/cmder)
 - [软媒时间](http://sj.ruanmei.com/)：替换 Windows任务栏 时间
+- [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows)
 
 ### 截屏
 
