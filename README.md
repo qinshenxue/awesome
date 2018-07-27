@@ -1,11 +1,13 @@
 # awesome
 
+## 优质软件
 
+- cmd 替代工具 [cmder](https://github.com/cmderdev/cmder)
 
-## 截屏
+### 截屏
 
-- FastStone Capture：滚动截屏、录屏
-- Snipaste：截图、贴图
+- [FastStone Capture](https://www.portablesoft.org/faststone-capture/)：滚动截屏、录屏
+- [Snipaste](https://zh.snipaste.com/)：截图、贴图
 
 
 
