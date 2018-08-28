@@ -25,6 +25,14 @@
 ### 邮件
 https://github.com/nodemailer/nodemailer
 
+### 图片处理
+
+| 名称 | star | 说明|
+|:---: | :---:| :---|
+|node-images | ![](https://img.shields.io/github/stars/zhangyuanwei/node-images.svg) | 图片处理，压缩，加水印 |
+
+
+
 ## 拖动排序
 
 
