@@ -46,6 +46,10 @@ https://github.com/nodemailer/nodemailer
 
 [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) [![GitHub stars](https://img.shields.io/github/stars/stanzhai/be-a-professional-programmer.svg?style=social)](https://github.com/stanzhai/be-a-professional-programmer/stargazers)
 
+## 图表插件
+
+[alibaba/BizCharts](https://github.com/alibaba/BizCharts)![](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social)
+
 
 ## github
 
