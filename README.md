@@ -29,7 +29,7 @@ https://github.com/nodemailer/nodemailer
 
 | 名称 | star | 说明|
 |:---: | :---:| :---|
-|node-images | ![](https://img.shields.io/github/stars/zhangyuanwei/node-images.svg) | 图片处理，压缩，加水印 |
+|[node-images](https://github.com/zhangyuanwei/node-images) | ![](https://img.shields.io/github/stars/zhangyuanwei/node-images.svg) | 图片处理，压缩，加水印 |
 
 
 
